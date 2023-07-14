@@ -1,0 +1,15 @@
+D:\GB\lesson2\task13\bin\Debug\net7.0\task13.exe
+D:\GB\lesson2\task13\bin\Debug\net7.0\task13.deps.json
+D:\GB\lesson2\task13\bin\Debug\net7.0\task13.runtimeconfig.json
+D:\GB\lesson2\task13\bin\Debug\net7.0\task13.dll
+D:\GB\lesson2\task13\bin\Debug\net7.0\task13.pdb
+D:\GB\lesson2\task13\obj\Debug\net7.0\task13.csproj.AssemblyReference.cache
+D:\GB\lesson2\task13\obj\Debug\net7.0\task13.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\lesson2\task13\obj\Debug\net7.0\task13.AssemblyInfoInputs.cache
+D:\GB\lesson2\task13\obj\Debug\net7.0\task13.AssemblyInfo.cs
+D:\GB\lesson2\task13\obj\Debug\net7.0\task13.csproj.CoreCompileInputs.cache
+D:\GB\lesson2\task13\obj\Debug\net7.0\task13.dll
+D:\GB\lesson2\task13\obj\Debug\net7.0\refint\task13.dll
+D:\GB\lesson2\task13\obj\Debug\net7.0\task13.pdb
+D:\GB\lesson2\task13\obj\Debug\net7.0\task13.genruntimeconfig.cache
+D:\GB\lesson2\task13\obj\Debug\net7.0\ref\task13.dll
